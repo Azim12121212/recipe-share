@@ -1,0 +1,5 @@
+rootProject.name = 'recipe-share'
+
+include 'module-repository'
+include 'module-service'
+include 'module-web'
